@@ -1,0 +1,7 @@
+사이트 만들기 소스 중
+
+<a href="https://youtu.be/jCTu6oSpfP0"><span class="image fit"><h3>DaNcing in a RoOm</h3></span></a>
+
+href 는 링크 주소 넣는 곳
+h3은 글자 크기 3번째
+span>사이에 제목 넣기</span>
